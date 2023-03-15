@@ -1076,6 +1076,6 @@ Vditor.preview(document.getElementById('board_view_con'),
         },
         className: 'preview vditor-reset',
         customEmoji: emojiOptions,
-        delay: 2000,
+        delay: 1000,
     })
 </script>
